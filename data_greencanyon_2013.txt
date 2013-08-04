@@ -1,0 +1,8 @@
+2013-03-21,bluejay,5
+2013-03-21,mallard,10
+2013-03-21,tordus migratorius,2
+2013-03-20,tordus migratorius,3
+2013-03-20,bluejay,2
+2013-03-20,mallard,5
+2013-03-19,eagle,1
+2013-03-18,sparrow,7
